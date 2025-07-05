@@ -1,5 +1,8 @@
 @file:Suppress("UNUSED_EXPRESSION")
 
+import com.android.tools.r8.internal.de
+
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.google.gms.google.services)
@@ -57,5 +60,7 @@ dependencies {
     implementation("androidx.credentials:credentials:1.3.0")
     implementation("androidx.credentials:credentials-play-services-auth:1.3.0")
     implementation("com.google.android.libraries.identity.googleid:googleid:1.1.1")
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
+
 
 }
