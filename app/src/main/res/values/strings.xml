@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlowTalk</string>
+    <string name="default_web_client_id">859494547102-h4380ghsv0a63oulr4rpkatvld7d92u1.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

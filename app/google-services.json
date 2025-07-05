@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859494547102",
+    "project_id": "flowtalk-3cf92",
+    "storage_bucket": "flowtalk-3cf92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859494547102:android:d1fba41141f9449f6e458f",
+        "android_client_info": {
+          "package_name": "com.example.flowtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_1vXl521YF_kfHggTyIie2CqQKhDzpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
