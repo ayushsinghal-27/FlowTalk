@@ -22,6 +22,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
+
     ActivityMainBinding binding;
     FirebaseAuth auth;
 
@@ -81,3 +82,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+
+
+
+// 2:45:00
